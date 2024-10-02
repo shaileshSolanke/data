@@ -7,12 +7,12 @@ const cosmicCalendar = [
         day: "01",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jan01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan01.svg",
             timeStamp: [0, 0, 0, 0],
             description: "Big Bang : space and time are created",
           },
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jan02.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan02.svg",
             timeStamp: [1, 2, 1, 4],
             description: "First atoms form",
           },
@@ -22,7 +22,7 @@ const cosmicCalendar = [
         day: "03",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jan03.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan03.svg",
             timeStamp: [false],
             description: "First stars form",
           },
@@ -32,7 +32,7 @@ const cosmicCalendar = [
         day: "20",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jan04.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan04.svg",
             timeStamp: [false],
             description: "Large galaxies form",
           },
@@ -48,7 +48,7 @@ const cosmicCalendar = [
         day: "15",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/feb01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/feb01.svg",
             timeStamp: [false],
             description: "Universe's large-scale structure begins forming",
           },
@@ -64,7 +64,7 @@ const cosmicCalendar = [
         day: "15",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/mar01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/mar01.svg",
             timeStamp: [false],
             description: "Milky Way forms",
           },
@@ -80,7 +80,7 @@ const cosmicCalendar = [
         day: "1",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/apr01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/apr01.svg",
             timeStamp: [false],
             description: "First galaxy clusters form",
           },
@@ -96,7 +96,7 @@ const cosmicCalendar = [
         day: "5",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/may01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/may01.svg",
             timeStamp: [false],
             description: "Earliest Sun-like stars appear",
           },
@@ -112,7 +112,7 @@ const cosmicCalendar = [
         day: "5",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jun01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jun01.svg",
             timeStamp: [false],
             description: "Great walls and filaments take shape",
           },
@@ -128,7 +128,7 @@ const cosmicCalendar = [
         day: "30",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/jul01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jul01.svg",
             timeStamp: [false],
             description: "Alpha Centauri forms",
           },
@@ -144,7 +144,7 @@ const cosmicCalendar = [
         day: "5",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/aug01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/aug01.svg",
             timeStamp: [false],
             description: "Milky Way becomes a spiral galaxy",
           },
@@ -154,7 +154,7 @@ const cosmicCalendar = [
         day: "15",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/aug02.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/aug02.svg",
             timeStamp: [false],
             description: "Dark-energy-dominated era begins",
           },
@@ -170,7 +170,7 @@ const cosmicCalendar = [
         day: "1",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/sep01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/sep01.svg",
             timeStamp: [false],
             description: "Solar system forms",
           },
@@ -180,7 +180,7 @@ const cosmicCalendar = [
         day: "10",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/sep02.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/sep02.svg",
             timeStamp: [false],
             description: "Life emerges on Earth",
           },
@@ -196,7 +196,7 @@ const cosmicCalendar = [
         day: "1",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/oct01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/oct01.svg",
             timeStamp: [false],
             description: "Photosynthesis originates",
           },
@@ -206,7 +206,7 @@ const cosmicCalendar = [
         day: "29",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/oct01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/oct01.svg",
             timeStamp: [false],
             description: "Oxygen appears in Earth's atmosphere",
           },
@@ -222,7 +222,7 @@ const cosmicCalendar = [
         day: "1",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/nov01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/nov01.svg",
             timeStamp: [false],
             description: "Ozone layer forms",
           },
@@ -232,7 +232,7 @@ const cosmicCalendar = [
         day: "8",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/nov02.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/nov02.svg",
             timeStamp: [false],
             description: "Eukaryotic organisms emerge",
           },
@@ -248,7 +248,7 @@ const cosmicCalendar = [
         day: "5",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec01.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec01.svg",
             timeStamp: [false],
             description: "Multicellular organisms appear",
           },
@@ -258,7 +258,7 @@ const cosmicCalendar = [
         day: "19",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec02.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec02.svg",
             timeStamp: [false],
             description: "Life comes out of the water",
           },
@@ -268,7 +268,7 @@ const cosmicCalendar = [
         day: "25",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec03.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec03.svg",
             timeStamp: [false],
             description: "Dinosaurs appear",
           },
@@ -278,7 +278,7 @@ const cosmicCalendar = [
         day: "26",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec04.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec04.svg",
             timeStamp: [false],
             description: "First mammals appear",
           },
@@ -288,7 +288,7 @@ const cosmicCalendar = [
         day: "30",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec05.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec05.svg",
             timeStamp: [false],
             description: "Dinosaurs go extinct",
           },
@@ -298,17 +298,17 @@ const cosmicCalendar = [
         day: "31",
         event: [
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec06.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec06.svg",
             timeStamp: [1, 0, 1, 5],
             description: "Apes appear",
           },
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec07.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec07.svg",
             timeStamp: [2, 0, 0, 0],
             description: "Humans split from apes",
           },
           {
-            img: "https://shaileshsolanke.github.io/react-mini-projects-data/01-accordian/assets/dec08.svg",
+            img: "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec08.svg",
             timeStamp: [2, 3, 5, 3],
             description: "Homo Sapiens appear",
           },
