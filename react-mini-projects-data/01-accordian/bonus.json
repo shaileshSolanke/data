@@ -1,0 +1,29 @@
+{
+  "title": "last seconds of December 31",
+  "events": [
+    {
+      "timeLeft": [1, 3],
+      "event": "Wheel is invented"
+    },
+    {
+      "timeLeft": [1, 2],
+      "event": "Writing is invented"
+    },
+    {
+      "timeLeft": [1, 0],
+      "event": "Egyption pyramids are built"
+    },
+    {
+      "timeLeft": [0, 2],
+      "event": "Galileo uses his telescope"
+    },
+    {
+      "timeLeft": [0, 1],
+      "event": "Humans land on the Moon"
+    },
+    {
+      "timeLeft": [0, 0],
+      "event": "You reading this...😁"
+    }
+  ]
+}
