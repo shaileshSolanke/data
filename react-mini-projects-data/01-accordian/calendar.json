@@ -23,7 +23,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan03.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "First stars form"
           }
         ]
@@ -33,7 +33,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jan04.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Large galaxies form"
           }
         ]
@@ -49,7 +49,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/feb01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Universe's large-scale structure begins forming"
           }
         ]
@@ -65,7 +65,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/mar01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Milky Way forms"
           }
         ]
@@ -77,11 +77,11 @@
     "month": "April",
     "events": [
       {
-        "day": "1",
+        "day": "01",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/apr01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "First galaxy clusters form"
           }
         ]
@@ -93,11 +93,11 @@
     "month": "May",
     "events": [
       {
-        "day": "5",
+        "day": "05",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/may01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Earliest Sun-like stars appear"
           }
         ]
@@ -109,11 +109,11 @@
     "month": "June",
     "events": [
       {
-        "day": "5",
+        "day": "05",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jun01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Great walls and filaments take shape"
           }
         ]
@@ -129,7 +129,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/jul01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Alpha Centauri forms"
           }
         ]
@@ -141,11 +141,11 @@
     "month": "August",
     "events": [
       {
-        "day": "5",
+        "day": "05",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/aug01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Milky Way becomes a spiral galaxy"
           }
         ]
@@ -155,7 +155,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/aug02.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Dark-energy-dominated era begins"
           }
         ]
@@ -167,11 +167,11 @@
     "month": "September",
     "events": [
       {
-        "day": "1",
+        "day": "01",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/sep01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Solar system forms"
           }
         ]
@@ -181,7 +181,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/sep02.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Life emerges on Earth"
           }
         ]
@@ -193,11 +193,11 @@
     "month": "October",
     "events": [
       {
-        "day": "1",
+        "day": "01",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/oct01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Photosynthesis originates"
           }
         ]
@@ -206,8 +206,8 @@
         "day": "29",
         "event": [
           {
-            "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/oct01.svg",
-            "timeStamp": [false],
+            "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/oct02.svg",
+            "timeStamp": false,
             "description": "Oxygen appears in Earth's atmosphere"
           }
         ]
@@ -219,21 +219,21 @@
     "month": "November",
     "events": [
       {
-        "day": "1",
+        "day": "01",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/nov01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Ozone layer forms"
           }
         ]
       },
       {
-        "day": "8",
+        "day": "08",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/nov02.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Eukaryotic organisms emerge"
           }
         ]
@@ -245,11 +245,11 @@
     "month": "December",
     "events": [
       {
-        "day": "5",
+        "day": "05",
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec01.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Multicellular organisms appear"
           }
         ]
@@ -259,7 +259,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec02.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Life comes out of the water"
           }
         ]
@@ -269,7 +269,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec03.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Dinosaurs appear"
           }
         ]
@@ -279,7 +279,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec04.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "First mammals appear"
           }
         ]
@@ -289,7 +289,7 @@
         "event": [
           {
             "img": "https://shaileshsolanke.github.io/data/react-mini-projects-data/01-accordian/assets/dec05.svg",
-            "timeStamp": [false],
+            "timeStamp": false,
             "description": "Dinosaurs go extinct"
           }
         ]
