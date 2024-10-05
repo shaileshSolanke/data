@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part01.jpg",
+    "alt":"part1"
+  },
+  {
+    "id": "1",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part02.jpg",
+    "alt":"part2"
+  },
+  {
+    "id": "2",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part03.jpg",
+    "alt":"part3"
+  },
+  {
+    "id": "3",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part04.jpg",
+    "alt":"part4"
+  },
+  {
+    "id": "4",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part05.jpg",
+    "alt":"part5"
+  },
+  {
+    "id": "5",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part06.jpg",
+    "alt":"part6"
+  },
+  {
+    "id": "6",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part07.jpg",
+    "alt":"part7"
+  },
+  {
+    "id": "7",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part08.jpg",
+    "alt":"part8"
+  },
+  {
+    "id": "8",
+    "src": "https://shaileshsolanke.github.io/data/react-mini-projects-data/04-image-slider/images/part09.jpg",
+    "alt":"part9"
+  }
+]
