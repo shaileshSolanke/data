@@ -1,0 +1,99 @@
+[
+  {
+    "label": "Home"
+  },
+  {
+    "label": "News",
+    "children": [
+      {
+        "label": "Asia",
+        "children": [
+          {
+            "label": "India",
+            "children": [
+              {
+                "label": "Maharashtra"
+              }
+            ]
+          },
+          {
+            "label": "Japan"
+          }
+        ]
+      },
+      {
+        "label": "US & Canada"
+      },
+      {
+        "label": "Africa"
+      },
+      {
+        "label": "Australia"
+      },
+      {
+        "label": "Europe"
+      }
+    ]
+  },
+  {
+    "label": "Innovation",
+    "children": [
+      {
+        "label": "Technology"
+      },
+      {
+        "label": "AI",
+        "children": [
+          {
+            "label": "AI vs the Mind"
+          }
+        ]
+      },
+      {
+        "label": "Science & Health"
+      }
+    ]
+  },
+  {
+    "label": "Culture",
+    "children": [
+      {
+        "label": "Film & TV"
+      },
+      {
+        "label": "Music"
+      },
+      {
+        "label": "Art & Design"
+      },
+      {
+        "label": "Books"
+      }
+    ]
+  },
+  {
+    "label": "Earth",
+    "children": [
+      {
+        "label": "Natural Wonders"
+      },
+      {
+        "label": "Wether & Science"
+      },
+      {
+        "label": "Climate Solutions"
+      },
+      {
+        "label": "Green Living"
+      }
+    ]
+  },
+  {
+    "label": "Account",
+    "children": [
+      {
+        "label": "Logout"
+      }
+    ]
+  }
+]
