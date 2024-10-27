@@ -1,0 +1,90 @@
+[
+  {
+    "collection": "Chair",
+    "subCollection": "Armchair",
+    "name": "EKENÄSET",
+    "description": "EKENÄSET armchair adds a stylish retro vibe to the room that's inspired by 1950s Scandinavian design. The classic look goes anywhere in the home and gives you sturdy and robust seating for many years.",
+    "rating": 94,
+    "warranty": 5,
+    "varients": [
+      {
+        "name": "Kelinge grey turquoise",
+        "src": "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109684_pe870150_s5.jpg",
+        "price": 17990,
+        "mrp": 25186,
+        "media": [
+          "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109721_pe870188_s5.jpg",
+          "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109682_pe870149_s5.jpg",
+          "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1179059_pe895832_s5.jpg"
+        ]
+      },
+      {
+        "name": "Kilanda light beige",
+        "src": "furniture/assets/products/chair/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
+        "price": 21990,
+        "mrp": 30786,
+        "media": [
+          "furniture/assets/products/chair/ekenaeset-armchair-kilanda-light-beige__1109720_pe870187_s5.jpg",
+          "furniture/assets/products/chair/ekenaeset-armchair-kilanda-light-beige__1110707_pe870568_s5.jpg",
+          "furniture/assets/products/chair/ekenaeset-armchair-kilanda-light-beige__1179060_pe895831_s5.jpg"
+        ]
+      }
+    ],
+    "details": {
+      "designer": "IKEA of Sweden",
+      "countryOfOrigin": "China",
+      "description": [
+        "Clean lines and supportive comfort, regardless if you're reading, socialising with friends or just relaxing for a moment.",
+        "The elegant, fixed cover has a perfect fit that will last over time. You can choose from different covers and find one that suits you and your home.",
+        "You will sit stable and steady for years to come since the frame is made of hardwearing solid wood. You also enjoy a relaxed sitting position thanks to the angled backrest.",
+        "Each armchair has a unique expression since the wooden frame is first stained in a dark-brown tone and then covered with clear lacquer that makes the wood's natural grains visible.",
+        "High-resilience foam in the seat and back makes the armchair regain its shape when you stand up, and it's complemented with zigzag springs in the seat and supportive fabric in the back for a firm comfort.",
+        "The tall legs in solid wood make it easy to vacuum or reach things hiding under the armchair to avoid clutter."
+      ]
+    }
+  },
+  {
+    "collection": "Chair",
+    "subCollection": "Armchair",
+    "name": "HERRÅKRA",
+    "description": "A bold design with a strong character and charmingly rounded shapes, upholstered in an easy-care fabric. HERRÅKRA armchair goes well in your living room and in in your office’s reception area.",
+    "rating": 92,
+    "warranty": 5,
+    "varients": [
+      {
+        "name": "Diseröd dark yellow",
+        "src": "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213667_pe911203_s5.jpg",
+        "price": 8990,
+        "mrp": 12586,
+        "media": [
+          "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213664_pe911200_s5.jpg",
+          "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213665_pe911207_s5.jpg",
+          "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213666_pe911202_s5.jpg"
+        ]
+      },
+      {
+        "name": "Vissle grey",
+        "src": "furniture/assets/products/chair/herrakra-armchair-vissle-grey__1213671_pe911201_s5.jpg",
+        "price": 7990,
+        "mrp": 11186,
+        "media": [
+          "furniture/assets/products/chair/herrakra-armchair-vissle-grey__1213668_pe911204_s5.jpg",
+          "furniture/assets/products/chair/herrakra-armchair-vissle-grey__1213669_pe911205_s5.jpg",
+          "furniture/assets/products/chair/herrakra-armchair-vissle-grey__1213670_pe911206_s5.jpg"
+        ]
+      }
+    ],
+    "details": {
+      "designer": "Ola Wihlborg",
+      "countryOfOrigin": "China",
+      "description": [
+        "This cover is made from Vissle fabric in polyester, which is dope-dyed. It's a durable material with a smooth weave and a nice two-tone effect.",
+        "The cover has been treated with easy-care, which means that spills won't seep into the fabric, but stay on the surface and are easily absorbed with a dry cloth.",
+        "The rounded shape of the armrests and backrest, and the way they meet each other, all makes a nice design detail that resembles the shape of a flower.",
+        "The backrest, armrests and low seat together provide a supportive comfort with an embracing feel.",
+        "A bold design with a strong character and charmingly rounded shapes, upholstered in an easy-care fabric. HERRÅKRA armchair goes well in your living room.",
+        "The armchair's bold, expressive shape with slightly angled legs adds character to any room and context."
+      ]
+    }
+  }
+]
