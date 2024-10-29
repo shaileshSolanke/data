@@ -2,8 +2,8 @@
   {
     "collection": "Chairs",
     "subCollection": "Armchair",
-    "baseImg":"furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109684_pe870150_s5.jpg",
-    "basePrice":17990,
+    "baseImg": "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109684_pe870150_s5.jpg",
+    "basePrice": 17990,
     "name": "EKENÄSET",
     "description": "EKENÄSET armchair adds a stylish retro vibe to the room that's inspired by 1950s Scandinavian design. The classic look goes anywhere in the home and gives you sturdy and robust seating for many years.",
     "rating": 94,
@@ -32,6 +32,7 @@
         ]
       }
     ],
+    "varientsColor": ["#436362", "#dbd3c8"],
     "details": {
       "designer": "IKEA of Sweden",
       "countryOfOrigin": "China",
@@ -48,8 +49,8 @@
   {
     "collection": "Chairs",
     "subCollection": "Armchair",
-    "baseImg":"furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213667_pe911203_s5.jpg",
-    "basePrice":8990,
+    "baseImg": "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213667_pe911203_s5.jpg",
+    "basePrice": 8990,
     "name": "HERRÅKRA",
     "description": "A bold design with a strong character and charmingly rounded shapes, upholstered in an easy-care fabric. HERRÅKRA armchair goes well in your living room and in in your office's reception area.",
     "rating": 92,
@@ -78,6 +79,7 @@
         ]
       }
     ],
+    "varientsColor": ["#ceac65", "#7f7f7f"],
     "details": {
       "designer": "Ola Wihlborg",
       "countryOfOrigin": "China",
