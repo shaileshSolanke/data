@@ -10,6 +10,8 @@
     "warranty": 5,
     "varients": [
       {
+        "id": "alcjzmrywzzyupvs",
+        "brand": "EKENÄSET",
         "name": "Kelinge grey turquoise",
         "src": "furniture/assets/products/chair/ekenaeset-armchair-kelinge-grey-turquoise__1109684_pe870150_s5.jpg",
         "price": 17990,
@@ -21,6 +23,8 @@
         ]
       },
       {
+        "id": "wyximqsudqhidljq",
+        "brand": "EKENÄSET",
         "name": "Kilanda light beige",
         "src": "furniture/assets/products/chair/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
         "price": 21990,
@@ -57,6 +61,8 @@
     "warranty": 5,
     "varients": [
       {
+        "id": "eisuqgsehbrzdxqk",
+        "brand": "HERRÅKRA",
         "name": "Diseröd dark yellow",
         "src": "furniture/assets/products/chair/herrakra-armchair-diseroed-dark-yellow__1213667_pe911203_s5.jpg",
         "price": 8990,
@@ -68,6 +74,8 @@
         ]
       },
       {
+        "id": "hvrqjdvqsmepnrgi",
+        "brand": "HERRÅKRA",
         "name": "Vissle grey",
         "src": "furniture/assets/products/chair/herrakra-armchair-vissle-grey__1213671_pe911201_s5.jpg",
         "price": 7990,
