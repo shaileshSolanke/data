@@ -460,7 +460,7 @@
     }
   },
   {
-    "collection": "Blanketsandthrows",
+    "collection": "Blanketsthrows",
     "subCollection": "Throw",
     "baseImg": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-anthracite__0963501_pe808544_s5-removebg-preview.png",
     "basePrice": 599,
@@ -528,7 +528,7 @@
     }
   },
   {
-    "collection": "Blanketsandthrows",
+    "collection": "Blanketsthrows",
     "subCollection": "Blanket",
     "baseImg": "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963713_pe809745_s5-removebg-preview.png",
     "basePrice": 1290,
