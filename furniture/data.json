@@ -458,5 +458,108 @@
         "Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
       ]
     }
+  },
+  {
+    "collection": "Blankets-&-throws",
+    "subCollection": "Throw",
+    "baseImg": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-anthracite__0963501_pe808544_s5-removebg-preview.png",
+    "basePrice": 599,
+    "name": "SANDBRODD",
+    "description": "A super-soft, crinkle-knit throw with fringes - it doesn't get much cosier than this. The grey tone is easy to coordinate with and the fabric is made from 100% recycled polyester.",
+    "rating": 80,
+    "warranty": false,
+    "varients": [
+      {
+        "id": "9lzMRR1VKQhfgz6oHXyM",
+        "brand": "SANDBRODD",
+        "name": "Anthracite",
+        "src": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-anthracite__0963501_pe808544_s5-removebg-preview.png",
+        "price": 599,
+        "mrp": 839,
+        "media": [
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-anthracite__0963503_pe808546_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-anthracite__0963502_pe808545_s5.jpg"
+        ]
+      },
+      {
+        "id": "W4B9MAFpCqJnKZ32gSbH",
+        "brand": "SANDBRODD",
+        "name": "Dark yellow",
+        "src": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-dark-yellow__1259980_pe926867_s5-removebg-preview.png",
+        "price": 599,
+        "mrp": 839,
+        "media": [
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-dark-yellow__1259978_pe926866_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-dark-yellow__1259979_pe926868_s5.jpg"
+        ]
+      },
+      {
+        "id": "PRVZKbrNv4BMYfXhRwdx",
+        "brand": "SANDBRODD",
+        "name": "Light green",
+        "src": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-light-green__1260005_pe926878_s5-removebg-preview.png",
+        "price": 599,
+        "mrp": 839,
+        "media": [
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-light-green__1260003_pe926877_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-light-green__1260004_pe926879_s5.jpg"
+        ]
+      },
+      {
+        "id": "GCxSA8vMJQCptWDyWTeY",
+        "brand": "SANDBRODD",
+        "name": "Orange red",
+        "src": "furniture/assets/products/blanketsandthrows/sandbrodd-throw-orange-red__1260021_pe926885_s5-removebg-preview.png",
+        "price": 599,
+        "mrp": 839,
+        "media": [
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-orange-red__1260019_pe926884_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/sandbrodd-throw-orange-red__1260020_pe926883_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#766c6d", "#df9920", "#a0ba9f", "#d06150"],
+    "details": {
+      "designer": "IKEA of Sweden",
+      "countryOfOrigin": "China, India",
+      "description": [
+        "The soft and cuddly crinkle-knit fabric is made solely from recycled polyester."
+      ]
+    }
+  },
+  {
+    "collection": "Blankets-&-throws",
+    "subCollection": "Blanket",
+    "baseImg": "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963713_pe809745_s5-removebg-preview.png",
+    "basePrice": 1290,
+    "name": "VÄNKRETS",
+    "description": "Wonderfully soft fleece blanket with a graphic pattern. Made of 100% recycled polyester and comfortable to crawl under when snuggling up on the sofa or when it's story time.",
+    "rating": 92,
+    "warranty": false,
+    "varients": [
+      {
+        "id": "pcKr31A3kv4JkbPLbgyP",
+        "brand": "VÄNKRETS",
+        "name": "Light grey",
+        "src": "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963713_pe809745_s5-removebg-preview.png",
+        "price": 1290,
+        "mrp": 1806,
+        "media": [
+          "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963715_pe809747_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963714_pe809748_s5.jpg",
+          "furniture/assets/products/blanketsandthrows/vaenkrets-blanket-light-grey__0963718_pe809746_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#dfdfe1"],
+    "details": {
+      "designer": "Maria Gustavsson",
+      "countryOfOrigin": "China",
+      "description": [
+        "Easy to clean; machine wash, warm (40°C).",
+        "The soft, smooth surface is durable and contains no substances, phthalates or chemicals that can harm your child's skin or health. A safe choice for your child – and for the environment.",
+        "Made of 100% recycled polyester – a hardwearing and durable material that you can wash over and over again."
+      ]
+    }
   }
 ]
