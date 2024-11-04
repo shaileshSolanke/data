@@ -119,10 +119,10 @@
         "price": 11990,
         "mrp": 16786,
         "media": [
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920135_pe786881_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920134_pe786880_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920132_pe786878_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920133_pe786882_s5.jpg?f=u"
+          "furniture/assets/products/chair/ormaryd-armchair-beige__0920132_pe786878_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-beige__0920133_pe786882_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-beige__0920134_pe786880_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-beige__0920135_pe786881_s5.jpg"
         ]
       },
       {
@@ -133,10 +133,10 @@
         "price": 11990,
         "mrp": 16786,
         "media": [
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920169_pe786889_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920168_pe786888_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920166_pe786886_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920167_pe786890_s5.jpg?f=u"
+          "furniture/assets/products/chair/ormaryd-armchair-dark-blue__0920166_pe786886_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-blue__0920167_pe786890_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-blue__0920168_pe786888_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-blue__0920169_pe786889_s5.jpg"
         ]
       },
       {
@@ -147,10 +147,10 @@
         "price": 11990,
         "mrp": 16786,
         "media": [
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920202_pe786901_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920201_pe786900_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920199_pe786898_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920200_pe786902_s5.jpg?f=u"
+          "furniture/assets/products/chair/ormaryd-armchair-dark-red__0920199_pe786898_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-red__0920200_pe786902_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-red__0920201_pe786900_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-dark-red__0920202_pe786901_s5.jpg"
         ]
       },
       {
@@ -161,10 +161,10 @@
         "price": 11990,
         "mrp": 16786,
         "media": [
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920218_pe786916_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920217_pe786915_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920215_pe786913_s5.jpg?f=u",
-          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920216_pe786917_s5.jpg?f=u"
+          "furniture/assets/products/chair/ormaryd-armchair-grey__0920215_pe786913_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-grey__0920216_pe786917_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-grey__0920217_pe786915_s5.jpg",
+          "furniture/assets/products/chair/ormaryd-armchair-grey__0920218_pe786916_s5.jpg"
         ]
       }
     ],
@@ -176,6 +176,121 @@
         "Back cushions filled with polyester fibres for soft comfort.",
         "Seat cushions filled with high resilience foam and polyester fibre wadding give comfortable support for your body, and easily regain their shape when you get up.",
         "Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+      ]
+    }
+  },
+  {
+    "collection": "Chairs",
+    "subCollection": "Recliner",
+    "baseImg": "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908536_pe783303_s5-removebg-preview.png",
+    "basePrice": 29990,
+    "name": "MUREN",
+    "description": "Take a seat in MUREN recliner and get a pleasant surprise. It is adjustable to three positions and comes with an inbuilt footstool. While sitting, use your back to press against the backrest - it lowers and the footstool lifts up. Now relax and enjoy!",
+    "rating": 80,
+    "warranty": 5,
+    "varients": [
+      {
+        "id": "oGunHDWJgztJJURT2ERy",
+        "brand": "MUREN",
+        "name": "Remmarn dark grey",
+        "src": "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908536_pe783303_s5-removebg-preview.png",
+        "price": 29990,
+        "mrp": 41986,
+        "media": [
+          "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908535_pe783268_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908540_pe783273_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908539_pe783272_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-dark-grey__0908537_pe783270_s5.jpg"
+        ]
+      },
+      {
+        "id": "0nvWqNVk7CF2HPZD56QR",
+        "brand": "MUREN",
+        "name": "Remmarn light grey",
+        "src": "furniture/assets/products/chair/muren-recliner-remmarn-light-grey__0908542_pe783275_s5-removebg-preview.png",
+        "price": 29990,
+        "mrp": 41986,
+        "media": [
+          "furniture/assets/products/chair/muren-recliner-remmarn-light-grey__0908541_pe783274_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-light-grey__0908545_pe783278_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-light-grey__0908546_pe783279_s5.jpg",
+          "furniture/assets/products/chair/muren-recliner-remmarn-light-grey__0908543_pe783276_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#434343", "#969696"],
+    "details": {
+      "designer": "IKEA of Sweden",
+      "countryOfOrigin": "China",
+      "description": [
+        "When you lean backwards, the built-in footstool folds out.",
+        "The high back gives good support for your neck.",
+        "Adjustable so that you can choose three positions, from upright sitting to reclining.",
+        "Removable and washable covers for headrest and armrests prolong the life of your armchair.",
+        "The removable armrest covers have pockets where you can keep small things like remote controls and glasses.",
+        "MUREN armchair comes in 2 easy-to-handle flat-packs. Easier for you to bring home, and the compact packages also takes up less space during transport – thereby reducing the armchair’s climate impact."
+      ]
+    }
+  },
+  {
+    "collection": "Chairs",
+    "subCollection": "Wing chair",
+    "baseImg": "furniture/assets/products/chair/oskarshamn-wing-chair-tonerud-red__1118158_pe872952_s5-removebg-preview.png",
+    "basePrice": 29990,
+    "name": "OSKARSHAMN",
+    "description": "Who doesn't dream of having their own nook to relax in? The comfy OSKARSHAMN wing chair feels wonderfully embracing while the timeless design makes it the given eye-catcher in any room.",
+    "rating": 94,
+    "warranty": 5,
+    "varients": [
+      {
+        "id": "S0tklySY24y2OijmD3nI",
+        "brand": "OSKARSHAMN",
+        "name": "Tonerud red",
+        "src": "furniture/assets/products/chair/oskarshamn-wing-chair-tonerud-red__1118158_pe872952_s5-removebg-preview.png",
+        "price": 29990,
+        "mrp": 41986,
+        "media": [
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tonerud-red__1214226_pe911513_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tonerud-red__1173991_ph184803_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tonerud-red__1123978_pe874954_s5.jpg"
+        ]
+      },
+      {
+        "id": "BY3AIfUekxDkl9RI9GYH",
+        "brand": "OSKARSHAMN",
+        "name": "Tibbleby beige/grey",
+        "src": "furniture/assets/products/chair/oskarshamn-wing-chair-tibbleby-beige-grey__1118157_pe872954_s5-removebg-preview.png",
+        "price": 29990,
+        "mrp": 41986,
+        "media": [
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tibbleby-beige-grey__1123975_pe874945_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tibbleby-beige-grey__1123973_pe874943_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-tibbleby-beige-grey__1123974_pe874944_s5.jpg"
+        ]
+      },
+      {
+        "id": "QmpTJBPw7WmyWNV5lYyJ",
+        "brand": "OSKARSHAMN",
+        "name": "Gunnared black-grey",
+        "src": "furniture/assets/products/chair/oskarshamn-wing-chair-gunnared-black-grey__1118159_pe872953_s5-removebg-preview.png",
+        "price": 29990,
+        "mrp": 41986,
+        "media": [
+          "furniture/assets/products/chair/oskarshamn-wing-chair-gunnared-black-grey__1214227_pe911514_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-gunnared-black-grey__1173989_ph184779_s5.jpg",
+          "furniture/assets/products/chair/oskarshamn-wing-chair-gunnared-black-grey__1123982_pe874952_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#a52e30", "#8e8e8c", "#363739"],
+    "details": {
+      "designer": "Ehlén Johansson",
+      "countryOfOrigin": "China",
+      "description": [
+        "This classic and timeless wing chair with an embracing backrest gives you relaxing me-time and is also great to sit on while enjoying socialising with others.",
+        "Clean lines, simple and at the same time a softly rounded design with wooden legs all make the wing chair easy to like and place anywhere.",
+        "The wing chair has a high comfort level thanks to the seat with a combination of supportive springs and soft foam, lumbar support, armrests and an extra-high backrest that you can lean against.",
+        "You can complete your wing chair with OSKARSHAMN footstool to sit even more comfortably."
       ]
     }
   }
