@@ -100,5 +100,83 @@
         "The armchair's bold, expressive shape with slightly angled legs adds character to any room and context."
       ]
     }
+  },
+  {
+    "collection": "Chairs",
+    "subCollection": "Armchair",
+    "baseImg": "furniture/assets/products/chair/ormaryd-armchair-beige__0920131_pe786877_s5-removebg-preview.png",
+    "basePrice": 11990,
+    "name": "ORMARYD",
+    "description": "This wonderfully inviting armchair uphostered in soft and durable fabric has seat and back cushions that provide nice support. Available in several colours, just like the matching ORMARYD footstools.",
+    "rating": 100,
+    "warranty": 5,
+    "varients": [
+      {
+        "id": "gJSzbzPktNS7WW951PEk",
+        "brand": "ORMARYD",
+        "name": "Beige",
+        "src": "furniture/assets/products/chair/ormaryd-armchair-beige__0920131_pe786877_s5-removebg-preview.png",
+        "price": 11990,
+        "mrp": 16786,
+        "media": [
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920135_pe786881_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920134_pe786880_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920132_pe786878_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-beige__0920133_pe786882_s5.jpg?f=u"
+        ]
+      },
+      {
+        "id": "mtdrFBkp1zFFQrcQnRKt",
+        "brand": "ORMARYD",
+        "name": "Dark blue",
+        "src": "furniture/assets/products/chair/ormaryd-armchair-dark-blue__0920165_pe786885_s5-removebg-preview.png",
+        "price": 11990,
+        "mrp": 16786,
+        "media": [
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920169_pe786889_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920168_pe786888_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920166_pe786886_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-blue__0920167_pe786890_s5.jpg?f=u"
+        ]
+      },
+      {
+        "id": "DMNEbuwA41lJ8axwwYOL",
+        "brand": "ORMARYD",
+        "name": "Dark red",
+        "src": "furniture/assets/products/chair/ormaryd-armchair-dark-red__0920198_pe786897_s5-removebg-preview.png",
+        "price": 11990,
+        "mrp": 16786,
+        "media": [
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920202_pe786901_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920201_pe786900_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920199_pe786898_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-dark-red__0920200_pe786902_s5.jpg?f=u"
+        ]
+      },
+      {
+        "id": "mHQxnhhy2tSNPpNVnesv",
+        "brand": "ORMARYD",
+        "name": "Grey",
+        "src": "furniture/assets/products/chair/ormaryd-armchair-grey__0920214_pe786912_s5-removebg-preview.png",
+        "price": 11990,
+        "mrp": 16786,
+        "media": [
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920218_pe786916_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920217_pe786915_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920215_pe786913_s5.jpg?f=u",
+          "https://www.ikea.com/in/en/images/products/ormaryd-armchair-grey__0920216_pe786917_s5.jpg?f=u"
+        ]
+      }
+    ],
+    "varientsColor": ["#b5a488", "#303a46", "#3a1618", "#4b4b4b"],
+    "details": {
+      "designer": "IKEA of Sweden",
+      "countryOfOrigin": "India",
+      "description": [
+        "Back cushions filled with polyester fibres for soft comfort.",
+        "Seat cushions filled with high resilience foam and polyester fibre wadding give comfortable support for your body, and easily regain their shape when you get up.",
+        "Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+      ]
+    }
   }
 ]
