@@ -293,5 +293,170 @@
         "You can complete your wing chair with OSKARSHAMN footstool to sit even more comfortably."
       ]
     }
+  },
+  {
+    "collection": "Chairs",
+    "subCollection": "Armchair",
+    "baseImg": "furniture/assets/products/chair/buskbo-armchair-rattan-djupvik-white__0700959_pe723853_s5-removebg-preview.png",
+    "basePrice": 11990,
+    "name": "BUSKBO",
+    "description": "Made of hand-woven rattan, a living material that makes each armchair unique. Airy but sturdy with an embracing feel makes it perfect to curl up in. A great way to invite nature into your home.",
+    "rating": 92,
+    "warranty": false,
+    "varients": [
+      {
+        "id": "IooTEl3R9wkGEUrHg5cy",
+        "brand": "BUSKBO",
+        "name": "rattan/Djupvik white",
+        "src": "furniture/assets/products/chair/buskbo-armchair-rattan-djupvik-white__0700959_pe723853_s5-removebg-preview.png",
+        "price": 11990,
+        "mrp": false,
+        "media": [
+          "furniture/assets/products/chair/buskbo-armchair-rattan-djupvik-white__0837600_pe719534_s5.jpg",
+          "furniture/assets/products/chair/buskbo-armchair-rattan-djupvik-white__0837601_pe719535_s5.jpg",
+          "furniture/assets/products/chair/buskbo-armchair-rattan__0837612_pe719538_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#d6c097"],
+    "details": {
+      "designer": "A Fredriksson/J Hultqvist/W Chong/IKEA of Sweden",
+      "countryOfOrigin": false,
+      "description": [
+        "Plastic feet protect your floor against scratching.",
+        "The armchair is lightweight and easy to move if you want to clean the floor or rearrange the furniture.",
+        "The cushion can be turned over and therefore has two sides for even wear.",
+        "Rattan is a natural material which ages beautifully and develops its own unique character over time.",
+        "Handmade by experienced craftspeople, which makes each armchair unique.",
+        "The cushion cover is easy to keep clean since it’s removable and can be machine washed."
+      ]
+    }
+  },
+  {
+    "collection": "Sofas",
+    "subCollection": "3-seat sofa with chaise longue",
+    "baseImg": "furniture/assets/products/sofa/ektorp-cover-f-3-seat-sofa-w-chaise-longue-hakebo-grey-green__1194845_pe902095_s5-removebg-preview.png",
+    "basePrice": 39990,
+    "name": "EKTORP",
+    "description": "Our beloved EKTORP seating has a timeless design and wonderfully thick, comfy cushions. The covers are easy to change, so buy an extra cover - or two, and change according to mood or season.",
+    "rating": 84,
+    "warranty": false,
+    "varients": [
+      {
+        "id": "M4fq6kdnj0Op8CKeqK9w",
+        "brand": "EKTORP",
+        "name": "Hakebo grey-green",
+        "src": "furniture/assets/products/sofa/ektorp-cover-f-3-seat-sofa-w-chaise-longue-hakebo-grey-green__1194845_pe902095_s5-removebg-preview.png",
+        "price": 39990,
+        "mrp": false,
+        "media": [
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-hakebo-grey-green__1194826_pe902076_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-hakebo-grey-green__1194827_pe902087_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-hakebo-grey-green__1194844_pe902094_s5.jpg"
+        ]
+      },
+      {
+        "id": "NH8xoC3fbGqSVmvfwAy4",
+        "brand": "EKTORP",
+        "name": "Karlshov beige/multicolour",
+        "src": "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-karlshov-beige-multicolour__1194855_pe902105_s5-removebg-preview.png",
+        "price": 43990,
+        "mrp": false,
+        "media": [
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-karlshov-beige-multicolour__1194834_pe902089_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-karlshov-beige-multicolour__1194835_pe902090_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-karlshov-beige-multicolour__1194854_pe902104_s5.jpg"
+        ]
+      },
+      {
+        "id": "WZu3NIevSZbtm7V8vJP6",
+        "brand": "EKTORP",
+        "name": "Kilanda dark blue",
+        "src": "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-kilanda-dark-blue__1194861_pe902093_s5-removebg-preview.png",
+        "price": 35990,
+        "mrp": false,
+        "media": [
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-kilanda-dark-blue__1194822_pe902072_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-kilanda-dark-blue__1194823_pe902091_s5.jpg",
+          "furniture/assets/products/sofa/ektorp-3-seat-sofa-with-chaise-longue-kilanda-dark-blue__1194860_pe902110_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#797c67", "#b3aca2", "#3f4d58"],
+    "details": {
+      "designer": false,
+      "countryOfOrigin": false,
+      "description": [
+        "Reversible back cushions filled with polyester fibres provide soft support for your back and two different sides to wear.",
+        "Seat cushions filled with high resilience foam and polyester fibre wadding give comfortable support for your body, and easily regain their shape when you get up.",
+        "You can place the chaise longue section to the left or right of the sofa, and switch whenever you like.",
+        "The cover is easy to keep clean since it is removable and machine washable.",
+        "You can choose from many different covers and find one that you like and suits your home.",
+        "The Kilanda fabric with a melange effect is made of at least 90 percent recycled polyester and has a soft surface."
+      ]
+    }
+  },
+  {
+    "collection": "Sofas",
+    "subCollection": "3-seat sofa",
+    "baseImg": "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5-removebg-preview.png",
+    "basePrice": 20990,
+    "name": "GAMMALBYN",
+    "description": "Back cushions filled with polyester fibres for soft comfort.",
+    "rating": 92,
+    "warranty": 5,
+    "varients": [
+      {
+        "id": "SxwMC6kfIf7MNHYX34Gl",
+        "brand": "GAMMALBYN",
+        "name": "Red",
+        "src": "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5-removebg-preview.png",
+        "price": 20990,
+        "mrp": 29386,
+        "media": [
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868919_pe781429_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868922_pe781432_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868921_pe781431_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-red__0868920_pe781433_s5.jpg"
+        ]
+      },
+      {
+        "id": "pHnJXUVM5ASJJqOimUoG",
+        "brand": "GAMMALBYN",
+        "name": "Blue",
+        "src": "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-blue__0868912_pe781422_s5-removebg-preview.png",
+        "price": 20990,
+        "mrp": 29386,
+        "media": [
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-blue__0891063_pe782234_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-blue__0868916_pe781426_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-blue__0868915_pe781425_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-blue__0868914_pe781427_s5.jpg"
+        ]
+      },
+      {
+        "id": "OpPDpiLddex82S33237g",
+        "brand": "GAMMALBYN",
+        "name": "Beige",
+        "src": "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-beige__0868906_pe781416_s5-removebg-preview.png",
+        "price": 20990,
+        "mrp": 29386,
+        "media": [
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-beige__0868907_pe781417_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-beige__0868910_pe781420_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-beige__0868909_pe781419_s5.jpg",
+          "furniture/assets/products/sofa/gammalbyn-3-seat-sofa-beige__0868908_pe781421_s5.jpg"
+        ]
+      }
+    ],
+    "varientsColor": ["#b3262e", "#104652", "#b8a797"],
+    "details": {
+      "designer": false,
+      "countryOfOrigin": "India",
+      "description": [
+        "Seat cushions filled with high resilience foam and polyester fibre wadding give comfortable support for your body, and easily regain their shape when you get up.",
+        "Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+      ]
+    }
   }
 ]
